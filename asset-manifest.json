@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/task/static/css/main.7cf9b12c.css",
+    "main.js": "/task/static/js/main.8ccd284e.js",
+    "static/media/get-inspired-travel-journaling-1-16x9_jpg": "/task/static/media/get-inspired-travel-journaling-1-16x9_19841a5e2751462ba1f483cbeb55032b.b7c787561e6bdbbcc898.jpg",
+    "static/media/pngtree-management-tasks-managers-coordination-photo-image_8515746.jpg": "/task/static/media/pngtree-management-tasks-managers-coordination-photo-image_8515746.961e2470138db9f04904.jpg",
+    "static/media/task-manager-5320178-4452647.webp": "/task/static/media/task-manager-5320178-4452647.152d28e8f80af3c60026.webp",
+    "static/media/istockphoto-1279502184-612x612.jpg": "/task/static/media/istockphoto-1279502184-612x612.8806e37f778b54d7f4b6.jpg",
+    "static/media/blank-notepad-sheet-calendar-your-260nw-1988573294.webp": "/task/static/media/blank-notepad-sheet-calendar-your-260nw-1988573294.bf37a06071c27e7a0bf6.webp",
+    "static/media/images.jpg": "/task/static/media/images.8cf97e5cc4eb79c88228.jpg",
+    "index.html": "/task/index.html",
+    "main.7cf9b12c.css.map": "/task/static/css/main.7cf9b12c.css.map",
+    "main.8ccd284e.js.map": "/task/static/js/main.8ccd284e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cf9b12c.css",
+    "static/js/main.8ccd284e.js"
+  ]
+}
